@@ -20,7 +20,6 @@ from wordcloud import WordCloud
 #import codecs
 import warnings
 warnings.filterwarnings("ignore")
-
 #分析网页函数
 def getmovie_list():
     movie_url = 'https://movie.douban.com/cinema/nowplaying/guangzhou/'
